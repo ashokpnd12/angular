@@ -1,0 +1,14 @@
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\bin\Debug\netcoreapp2.1\EmployeeWebApiService.deps.json
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\bin\Debug\netcoreapp2.1\EmployeeWebApiService.runtimeconfig.json
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\bin\Debug\netcoreapp2.1\EmployeeWebApiService.runtimeconfig.dev.json
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\bin\Debug\netcoreapp2.1\EmployeeWebApiService.dll
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\bin\Debug\netcoreapp2.1\EmployeeWebApiService.pdb
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\obj\Debug\netcoreapp2.1\EmployeeWebApiService.csprojAssemblyReference.cache
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\obj\Debug\netcoreapp2.1\EmployeeWebApiService.csproj.CoreCompileInputs.cache
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\obj\Debug\netcoreapp2.1\EmployeeWebApiService.RazorAssemblyInfo.cache
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\obj\Debug\netcoreapp2.1\EmployeeWebApiService.RazorAssemblyInfo.cs
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\obj\Debug\netcoreapp2.1\EmployeeWebApiService.AssemblyInfoInputs.cache
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\obj\Debug\netcoreapp2.1\EmployeeWebApiService.AssemblyInfo.cs
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\obj\Debug\netcoreapp2.1\EmployeeWebApiService.RazorTargetAssemblyInfo.cache
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\obj\Debug\netcoreapp2.1\EmployeeWebApiService.dll
+C:\Users\Ashok\Documents\VS Code\angular\EmployeeWebApiService\obj\Debug\netcoreapp2.1\EmployeeWebApiService.pdb
